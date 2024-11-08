@@ -16,6 +16,7 @@ export default function Calculator() {
   return (
     <div className="calculator">
       <h2>Simple Calculator</h2>
+      <h3>This is a test.</h3>
       <p>
         <input
           type="text"
